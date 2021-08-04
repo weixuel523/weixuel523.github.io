@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-Hi! Welcome to my personal website. I'm Xueliang Wei from Huazhong University of Science and Technology (HUST). I received the BE degree in computer science and technology from HUST, China, in 2015. Now, I'm working toward the PhD degree in [SSS&SDS Research Group](https://ssssds.github.io/) in HUST. My current research interests include non-volatile memories, persistent memories, crash consistency, and meory security.
+Hi! Welcome to my personal website. I'm Xueliang Wei from Huazhong University of Science and Technology (HUST). I received the BE degree in computer science and technology from HUST, China, in 2015. Now, I'm working toward the PhD degree in [SSS&SDS Research Group](https://ssssds.github.io/) in HUST. My current research interests include non-volatile memories, persistent memories, crash consistency, and memory security.
 
 ## News
 

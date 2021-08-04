@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Xueliang Wei"
 title_separator          : "-"
 name                     : &name "Xueliang Wei"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Xueliang Wei"
   avatar           : "Xueliang_Wei.jpg"
   bio              : "Ph.D student from Huazhong University of Science and Technology (HUST). Email: xueliang_wei@hust.edu.cn"
-  location         : "Wuhan National Laboratory for Optoelectronics, Key Laboratory of Information Storage System, HUST, Wuhan, China"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
