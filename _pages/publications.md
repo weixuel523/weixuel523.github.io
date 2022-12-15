@@ -15,6 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2023
+
+- **[DATE]** Heng Zhou, Bing Wu, Huan Cheng, Wei Zhao, **Xueliang Wei**, Jinpeng Liu, Dan Feng, and Wei Tong. "*ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-Based Accelerator for Online Deep Learning*". 2023 Design, Automation and Test in Europe Conference (DATE).
+
+## 2022
+
+- **[TCAD]** Wei Zhao, Jie Xu, **Xueliang Wei**, Bing Wu, Chengning Wang, Weilin Zhu, Wei Tong, Dan Feng, and Jingning Liu. "*A Low Latency and High Endurance MLC STT-MRAM based Cache System*". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+
 ## 2021
 
 - **[ICPP]** Mengya Lei, Fang Wang, Dan Feng, Fan Li, and **Xueliang Wei**. "*Crash-Consistency-Aware Encryption for Non-Volatile Memories*". 50th International Conference on Parallel Processing (ICPP).
@@ -30,6 +38,10 @@ author_profile: true
 - **[MSST]** Wei Zhao, Wei Tong, Dan Feng, Jingning Liu, Jie Xu, **Xueliang Wei**, Bing Wu, Chengning Wang, Weilin Zhu, and Bo Liu. "*OSwrite: Improving the lifetime of MLC STT-RAM with One-Step write*". 36th International Conference on Massive Storage Systems and Technology (MSST).
 
 - **[TCAD]** Chengning Wang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Bing Wu, Wei Zhao, Linghao Song, Yang Zhang, Jie Xu, **Xueliang Wei**, and Yiran Chen. "*Improving Multilevel Writes on Vertical 3-D Cross-Point Resistive Memory*". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+
+- **[TOS]** Liuqing Ye, Dan Feng, Yuchong Hu, and **Xueliang Wei**. "*Hybrid Codes: Flexible Erasure Codes with Optimized Recovery Performance*". ACM Transactions on Storage (TOS).
+
+
 
 ## 2019
 
