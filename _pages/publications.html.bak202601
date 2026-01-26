@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
-author_profile: true
+permalink: /example-publications/
+<!-- author_profile: true -->
+author_profile: false
+sidebar: false
 ---
 
 {% if site.author.googlescholar %}
@@ -31,6 +33,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
