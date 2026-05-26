@@ -9,7 +9,11 @@ sidebar: false
 
 # 2026
 
+**[TC]** Yibo Liu, Bing Wu, Shiyi Song, Xueliang Wei, Huan Cheng, Heng Zhou, Wei Tong, and Dan Feng. <u>"pTree: Building Efficient B+-Tree on Non-volatile Memory with Processing-in-memory"</u>. IEEE Transactions on Computers, 2026. 
+[[Paper]](https://ieeexplore.ieee.org/document/11505911)
+
 **[HPCA]** Xu Jiang, Xueliang Wei, YiFei Qu, Dan Feng, Yulai Xie, Wei Tong. <u>"Secret Caching Sauce for High-Performance Secure Memory"</u>. IEEE International Symposium on High-Performance Computer Architecture, 2026.
+[[Paper]](https://ieeexplore.ieee.org/document/11408600)
 
 **[TACO]** Jinpeng Liu, Wei Tong, Bing Wu, Huan Cheng, Heng Zhou, Xueliang Wei, and Dan Feng. <u>"ICON-NIV: A Generalized Method for Mitigating the Impacts of IR Drop and Nonlinear I-V Effect in eNVM-based Accelerators"</u>. ACM Transactions on Architecture and Code Optimization, 2026. 
 [[Paper]](https://dl.acm.org/doi/10.1145/3777381)
