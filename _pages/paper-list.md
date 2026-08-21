@@ -9,6 +9,9 @@ sidebar: false
 
 # 2026
 
+**[JSA]** Heng Zhou, Bing Wu, Jinpeng Liu, Huan Cheng, Taoming Lei, Zezheng Li, Dan Feng, Wei Tong, and Xueliang Wei. <u>"ColRefresh: A variation-robust read disturbance mitigation framework in RRAM-based computing-in-memory architectures"</u>. Journal of Systems Architecture, 2026. 
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762126002456)
+
 **[TC]** Yibo Liu, Bing Wu, Shiyi Song, Xueliang Wei, Huan Cheng, Heng Zhou, Wei Tong, and Dan Feng. <u>"pTree: Building Efficient B+-Tree on Non-volatile Memory with Processing-in-memory"</u>. IEEE Transactions on Computers, 2026. 
 [[Paper]](https://ieeexplore.ieee.org/document/11505911)
 
